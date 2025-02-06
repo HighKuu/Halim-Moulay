@@ -7,14 +7,15 @@
 💡 Ce qui me motive ? Trouver du sens dans les données, résoudre des problèmes complexes et créer des solutions impactantes.
 
 💻 Ce que vous trouverez ici :  
-🔹 Des projets en Python, SQL, data visualisation et machine learning
-🔹 Des analyses et explorations de données sur des sujets variés
-🔹 Des expérimentations autour de l’IA et des algorithmes de machine learning
+🔹 Des projets en Python, SQL, data visualisation et machine learning  
+🔹 Des analyses et explorations de données sur des sujets variés  
+🔹 Des expérimentations autour de l’IA et des algorithmes de machine learning  
 
 🔎 À propos de moi
 💡 Curieux et toujours en quête d’apprentissage
 📊 Passionné par la data et son pouvoir de transformation
 🤝 Ouvert aux collaborations et aux échanges
+
 
 🚀 À la recherche d'opportunités en tant que Data Analyst ! Si vous avez un projet intéressant ou une opportunité, n’hésitez pas à me contacter.
 

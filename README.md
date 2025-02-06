@@ -6,7 +6,7 @@
 
 💡 Ce qui me motive ? Trouver du sens dans les données, résoudre des problèmes complexes et créer des solutions impactantes.
 
-💻 Ce que vous trouverez ici :
+💻 Ce que vous trouverez ici :  
 🔹 Des projets en Python, SQL, data visualisation et machine learning
 🔹 Des analyses et explorations de données sur des sujets variés
 🔹 Des expérimentations autour de l’IA et des algorithmes de machine learning

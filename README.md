@@ -11,10 +11,10 @@
 🔹 Des analyses et explorations de données sur des sujets variés  
 🔹 Des expérimentations autour de l’IA et des algorithmes de machine learning  
 
-🔎 À propos de moi
-💡 Curieux et toujours en quête d’apprentissage
-📊 Passionné par la data et son pouvoir de transformation
-🤝 Ouvert aux collaborations et aux échanges
+🔎 À propos de moi  
+💡 Curieux et toujours en quête d’apprentissage  
+📊 Passionné par la data et son pouvoir de transformation  
+🤝 Ouvert aux collaborations et aux échanges  
 
 
 🚀 À la recherche d'opportunités en tant que Data Analyst ! Si vous avez un projet intéressant ou une opportunité, n’hésitez pas à me contacter.
@@ -23,10 +23,10 @@
 
 [Mon portfolio 🎓](https://highkuu.github.io/website_CV.github.io/)
 
-Me contacter :
-📧 Email : halim.moulay@gmail.com
-🔗 LinkedIn : [Halim Moulay](https://www.linkedin.com/in/halim-moulay-219b30274/)
-💻 GitHub : [HighKuu](https://github.com/HighKuu)
+Me contacter :  
+📧 Email : halim.moulay@gmail.com  
+🔗 LinkedIn : [Halim Moulay](https://www.linkedin.com/in/halim-moulay-219b30274/)  
+💻 GitHub : [HighKuu](https://github.com/HighKuu)  
 
 <div align="center">
 

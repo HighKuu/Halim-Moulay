@@ -1,4 +1,5 @@
-# 👋 Salut, moi c'est Halim MOULAY !
+# <p align="center">Salut, moi c'est Halim ! 👋</p>
+
 
 ## Bienvenue sur mon GitHub ! 🚀
 

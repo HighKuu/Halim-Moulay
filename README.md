@@ -1,5 +1,6 @@
-#👋 Salut, moi c'est Halim MOULAY !
-Bienvenue sur mon GitHub ! 🚀
+# 👋 Salut, moi c'est Halim MOULAY !
+
+## Bienvenue sur mon GitHub ! 🚀
 
 🎓 Data Analyst en reconversion, passionné par la tech et les données. Après plusieurs années d'expérience dans divers domaines notamment l'escalade, j'ai suivi une formation à la Wild Code School, où j'ai obtenu une certification RNCP de niveau 6 (équivalent Bac+3).
 
